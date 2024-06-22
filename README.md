@@ -62,4 +62,4 @@ Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerl
 
 
 ---
-
+Projeye ait model dosyalarını (pkl ve hdf5 formatlarında) aşağıdaki bağlantıyı kullanarak indirebilirsiniz: [Google Drive Bağlantısı]([buraya_drive_bağlantınızı_ekleyin](https://drive.google.com/drive/folders/1K2msh-PcmW79-1VLyRUarLUIpLdKa1k9?usp=drive_link))."
