@@ -42,6 +42,8 @@ Her bir model için eğitim sürecinde k=5 kat çapraz doğrulama yöntemi uygul
 
 Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerlendirmek için doğruluk (accuracy), hassasiyet (precision), duyarlılık (recall), F1 skoru, sınıflandırma raporu, karışıklık matrisi ve roc eğrisi gibi ölçütler elde edilmiştir. Elde edilen bu değerlendirme metrikleri, modellerin performansını karşılaştırmak ve en uygun modeli seçmek için kullanılmıştır.
 
+---
+
 # BULGULAR 📋
 
 
@@ -58,4 +60,6 @@ Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerl
 | ResNet50                    | 97.27             | 90.99               | 91.06            | 91.06     | 91.06  | 91       |
 
 
-    
+
+---
+
