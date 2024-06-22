@@ -42,37 +42,20 @@ Her bir model için eğitim sürecinde k=5 kat çapraz doğrulama yöntemi uygul
 
 Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerlendirmek için doğruluk (accuracy), hassasiyet (precision), duyarlılık (recall), F1 skoru, sınıflandırma raporu, karışıklık matrisi ve roc eğrisi gibi ölçütler elde edilmiştir. Elde edilen bu değerlendirme metrikleri, modellerin performansını karşılaştırmak ve en uygun modeli seçmek için kullanılmıştır.
 
-# BULGULAR
+# BULGULAR 📋
 
 
-\documentclass{article}
-\usepackage{graphicx}
-\usepackage{booktabs}
-
-\begin{document}
-
-\begin{table}[ht]
-\centering
-\resizebox{\textwidth}{!}{%
-\begin{tabular}{@{}lllllll@{}}
-\toprule
-\textbf{Deep Learning Architectures} & \textbf{Training Accuracy (\%)} & \textbf{Validation Accuracy (\%)} & \textbf{Testing Accuracy (\%)} & \textbf{Precision (\%)} & \textbf{Recall (\%)} & \textbf{F1-score (\%)} \\ \midrule
-K-Nearest Neighbors & - & 86.99 & 90.33 & 91.68 & 90.33 & 90.25 \\
-Decision Tree & - & 84.00 & 83.00 & 83.03 & 83.00 & 82.99 \\
-Random Forest & - & 95.14 & 94.33 & 93.38 & 94.33 & 94.33 \\
-Support Vector Machine & - & 94.74 & 94.00 & 94.03 & 94.00 & 93.99 \\
-Gradient Boosting & - & 94.37 & 93.66 & 93.66 & 93.66 & 93.66 \\
-Logistic Regression & - & 96.59 & 98.00 & 98.00 & 98.00 & 97.99 \\
-Artificial Neural Network & 85.75 & 81.70 & 81.66 & 81.66 & 81.66 & 81.60 \\
-Proposed Model (CNN) & 98.26 & 95.03 & 95.39 & 95.39 & 95.39 & 95.20 \\
-ResNet50 & 97.27 & 90.99 & 91.06 & 91.06 & 91.06 & 91.00 \\ \bottomrule
-\end{tabular}%
-}
-\caption{Performance metrics of various deep learning architectures.}
-\label{tab:deep_learning_metrics}
-\end{table}
-
-\end{document}
+| Deep Learning Architectures | Training Accuracy | Validation Accuracy | Testing Accuracy | Precision | Recall | F1-score |
+|----------------------------|-------------------|---------------------|------------------|-----------|--------|----------|
+| K-Nearest Neighbors         | -                 | 86.99               | 90.33            | 91.68     | 90.333 | 90.25    |
+| Decision Tree               | -                 | 84                  | 83               | 83.03     | 83     | 82.99    |
+| Random Forest               | -                 | 95.14               | 94.33            | 93.38     | 94.33  | 94.33    |
+| Support Vector Machine      | -                 | 94.74               | 94               | 94.03     | 94     | 93.99    |
+| Gradient Boosting           | -                 | 94.37               | 93.66            | 93.66     | 93.66  | 93.66    |
+| Logistic Regression         | -                 | 96.59               | 98               | 98        | 98     | 97.99    |
+| Artificial Neural Network   | 85.75             | 81.70               | 81.66            | 81.66     | 81.66  | 81.6     |
+| Proposed Model (CNN)        | 98.26             | 95.03               | 95.39            | 95.39     | 95.39  | 95.2     |
+| ResNet50                    | 97.27             | 90.99               | 91.06            | 91.06     | 91.06  | 91       |
 
 
     
