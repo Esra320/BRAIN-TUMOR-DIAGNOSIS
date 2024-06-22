@@ -62,5 +62,5 @@ Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerl
 
 
 ---
-Projeye ait model dosyalarını (pkl ve hdf5 formatlarında) aşağıdaki bağlantıyı kullanarak indirebilirsiniz: [Google Drive Bağlantısı]([https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no](https://drive.google.com/drive/folders/1K2msh-PcmW79-1VLyRUarLUIpLdKa1k9?usp=drive_link))
+Projeye ait model dosyalarını (pkl ve hdf5 formatlarında) aşağıdaki bağlantıyı kullanarak indirebilirsiniz: [Google Drive Bağlantısı](https://drive.google.com/drive/folders/1K2msh-PcmW79-1VLyRUarLUIpLdKa1k9?usp=drive_link)
 
