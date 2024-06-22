@@ -1,4 +1,4 @@
-# 🔹 🔸 BRAIN TUMOR DIAGNOSIS WITH ARTIFICIAL INTELLIGENCE 🔸 🔹
+##  🔹 🔸 BRAIN TUMOR DIAGNOSIS WITH ARTIFICIAL INTELLIGENCE 🔸 🔹
 
 Beyin tümörleri, çocuklarda ve yetişkinlerde görülen agresif hastalıklar arasında kabul edilir. Merkezi Sinir Sistemi (MSS) tümörlerinin büyük çoğunluğunu oluştururlar ve tüm MSS tümörlerinin %85-90'ını teşkil ederler. Her yıl yaklaşık 11,700 kişiye beyin tümörü teşhisi konulmaktadır. Bu tür tümörlerle mücadele eden bireylerin 5 yıllık sağkalım oranı erkeklerde %34, kadınlarda ise %36 olarak belirlenmiştir. Hastaların sağkalım sürelerini artırmak için doğru tanı ve tedavi planlamaları kritik öneme sahiptir. Beyin tümörlerinin tespitinde en yaygın kullanılan yöntem Manyetik Rezonans Görüntüleme (MR) teknolojisidir. MR taramalarıyla elde edilen büyük miktarda görüntü verisi, uzman radyologlar tarafından analiz edilir. Beyin tümörlerinin karmaşıklığı göz önüne alındığında, manuel muayene yöntemleri hatalara açık olabilir.
 
@@ -44,7 +44,7 @@ Her eğitim sürecinin sonunda, modelin sınıflandırma performansını değerl
 
 ---
 
-# BULGULAR 📋
+## BULGULAR 📋
 
 
 | Deep Learning Architectures | Training Accuracy | Validation Accuracy | Testing Accuracy | Precision | Recall | F1-score |
